@@ -94,4 +94,6 @@ La tienda tiene la intención de implementar un programa de fidelización mensua
 - Control de Acceso: El sistema debe implementar un control de acceso basado en roles para proteger la información sensible de los clientes y del sorteo.
 - Respaldo de Datos: El sistema debe contar con un mecanismo de respaldo regular de todos los datos almacenados, incluyendo información de clientes, puntos acumulados, y registros de sorteos.
 
+# •	¿Cómo podríamos diseñar una contrapropuesta para optimizar el programa de f idelización y la selección de ganadores?
 
+## -R// Para optimizar el programa de fidelización y la selección de ganadores, se puede implementar un sistema de niveles donde los clientes suben de categoría tales como bronce, plata y oro, según los puntos acumulados, dando beneficios en niveles superiores. Además, se podría realizar un sorteo ponderado, donde los clientes con más puntos tengan más posibilidades de ganar, pero sin excluir a los de niveles bajos. También, se puede ofrecer premios adicionales pensando en metas de participación, como sorteos especiales para clientes que refieren a otros o completan encuestas.  
